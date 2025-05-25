@@ -1,7 +1,7 @@
 # Meat-Consumption-Analysis
 
 ## Meat Consumption globally
-Top Meat-Consuming Countries
+Top Meat-Consuming Countries/n
 •	Argentina, Uruguay, and the United States rank as the top three countries for meat consumption per year.
 •	Beef, poultry, and fish/seafood are the primary types of meat consumed globally.
 Trends in Meat Consumption Over Time
